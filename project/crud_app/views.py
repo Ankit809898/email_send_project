@@ -26,3 +26,19 @@ def Email_view(request):
     template_name = 'crud_app/add_email.html'
     context = {'form': form}
     return render(request, template_name, context)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
